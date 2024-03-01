@@ -1,0 +1,19 @@
+.class {
+    background-color: pink;
+    font-family: "Verdana", DejaVu Sans, Sans-serif;
+}
+
+.one {
+    color: blue;
+    font-size: 36px;
+}
+
+#cooler {
+    font-size: 24px;
+}
+
+.diff {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
